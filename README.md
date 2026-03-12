@@ -8,8 +8,6 @@ Sistema de gestión de tareas por consola desarrollado en Python. Permite crear,
 python Entregable_final.py
 ```
 
-> No requiere instalación de librerías externas. Solo Python 3.x.
-
 ## 🧭 Opciones del menú
 
 | # | Función |
