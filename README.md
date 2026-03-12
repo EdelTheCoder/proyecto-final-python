@@ -5,7 +5,7 @@ Sistema de gestión de tareas por consola desarrollado en Python. Permite crear,
 ## ▶️ Cómo ejecutar
 
 ```bash
-python tareas_administrativas.py
+python Entregable_final.py
 ```
 
 > No requiere instalación de librerías externas. Solo Python 3.x.
